@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:poppy"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Aphrodite"
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:campfire"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Hestia"
+}

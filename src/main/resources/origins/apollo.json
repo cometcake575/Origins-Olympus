@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:note_block"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Apollo"
+}

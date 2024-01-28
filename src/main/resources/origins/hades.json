@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:fire_charge"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Zeus"
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:trident"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Poseidon"
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:iron_ingot"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Hephaestus"
+}

@@ -1,0 +1,9 @@
+name: Origins-Olympus
+version: 1.0.0
+main: com.starshootercity.originsolympus.OriginsOlympus
+description: Origins-Reborn addon to add origins themed around the Ancient Greek Gods and Goddesses
+api-version: '1.20'
+author: cometcake575
+
+depend:
+  - Origins-Reborn

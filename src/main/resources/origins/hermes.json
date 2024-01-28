@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:book_and_quill"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Hermes"
+}

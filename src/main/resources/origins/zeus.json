@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:lightning_rod"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Zeus"
+}

@@ -1,0 +1,10 @@
+{
+	"powers": [
+	],
+	"icon": {
+		"item": "minecraft:diamond"
+	},
+	"order": 100,
+	"impact": 1,
+	"description": "Hera"
+}
